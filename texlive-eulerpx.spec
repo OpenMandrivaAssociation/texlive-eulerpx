@@ -1,6 +1,6 @@
 Name:		texlive-eulerpx
 Version:	63967
-Release:	1
+Release:	2
 Summary:	A modern interface for the Euler math fonts
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/eulerpx
