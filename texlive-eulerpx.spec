@@ -3,7 +3,7 @@ Version:	63967
 Release:	2
 Summary:	A modern interface for the Euler math fonts
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/eulerpx
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/eulerpx
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/eulerpx.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/eulerpx.doc.r%{version}.tar.xz
